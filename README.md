@@ -9,8 +9,9 @@
 
 ## 封装程序下载
 本项目提供封装程序下载，点击按钮进行下载
+[![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/959605317/88f827e1-9e64-4a7e-bf9b-58d1c2918297?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250403T083404Z&X-Amz-Expires=300&X-Amz-Signature=9f576ea392e4966bd6f04fea2f18eb2a70f6e6c81724e756cf248dcf42abab10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DProcess_v4.0.0_realse.rar&response-content-type=application%2Foctet-stream)
 
-下载安装包后解压，从位./dist/main/*.exe运行
+下载安装包后解压，从位./main/*.exe运行
 
 ## 项目结构
 ```
