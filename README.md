@@ -1,7 +1,7 @@
 # 图像处理程序
 [![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://github.com/KingJerrick/NJUST_image-processing/releases/tag/v4.0.0)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
-![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
+[![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)](https://www.qt.io/download-dev)
 
 该程序重构离散余弦变换、离散傅氏变换、直方图均衡三个图像处理程序，使用qt进行可视化界面设计。
 
