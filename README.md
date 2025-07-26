@@ -1,5 +1,5 @@
 # 图像处理程序
-[![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)]
+[![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://github.com/KingJerrick/NJUST_image-processing/releases/tag/v4.0.0)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
