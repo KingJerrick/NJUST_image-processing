@@ -1,5 +1,6 @@
 # 图像处理程序
-<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="20"/> <img src="https://img.shields.io/badge/Physics-942125.svg" />
+<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="50"/>
+
 [![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://github.com/KingJerrick/NJUST_image-processing/releases/tag/v4.0.0)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)](https://www.qt.io/download-dev)
