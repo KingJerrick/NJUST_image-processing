@@ -1,5 +1,5 @@
 # 图像处理程序
-<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/><img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>
+<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/>[<img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>](https://physics.njust.edu.cn/main.htm)
 
 [![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://github.com/KingJerrick/NJUST_image-processing/releases/tag/v4.0.0)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
