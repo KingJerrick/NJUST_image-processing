@@ -1,6 +1,7 @@
 # 图像处理程序
 [<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/>](https://www.njust.edu.cn/)[<img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>](https://physics.njust.edu.cn/main.htm)
 
+[![Author](https://img.shields.io/badge/Author-Jerrick-blue)](mailto:zhechen0224@outlook.com)
 [![TensorFlow](https://badgen.net/github/release/KingJerrick/NJUST_image-processing/stable)](https://github.com/KingJerrick/NJUST_image-processing/releases/tag/v4.0.0)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)](https://www.qt.io/download-dev)
@@ -38,3 +39,5 @@
 │   └── 📜 ui_mainwindow.ui          # 主窗口界面布局
 └── 📜 main.py                       # 主程序入口
 ```
+## 联系作者
+通过上方标签可直接向作者发送邮件
